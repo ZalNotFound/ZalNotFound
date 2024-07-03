@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loane-morandeau-1a2944251/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loane-morandeau/) 
 [![Indeed](https://img.shields.io/badge/Indeed-%23305ea9.svg?logo=indeed&logoColor=white)](https://profile.indeed.com/p/loanem-wf903m9) 
 
 # 💻 Tech Stack:
