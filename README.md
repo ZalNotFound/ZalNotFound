@@ -1,5 +1,5 @@
 # 🧑‍💻 About Me:
-🔬 I’m currently studying data and computer sciences<br>🤝 I’m looking for a company to collaborate with, to achieve a work-study bachelor<br>🧑‍🦯 I’m currently deepening Python and Java and learning PHP<br>🦙 Fun fact : I love llamas
+🔬 I’m currently studying computer sciences<br>🤝 I’m looking for a company to collaborate with, to pursue data science studies<br>🧑‍🦯 I’m currently deepening Python and Java and learning PHP<br>🦙 Fun fact : I love llamas
 
 
 ## 🌐 Socials:
